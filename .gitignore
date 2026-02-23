@@ -1,4 +1,17 @@
 /node_modules
-/.vscode
 /.env
 /.DS_Store
+
+# local notes/docs
+.local/
+
+# IDEs
+.idea/
+.vscode/
+
+# LLM assistants
+.claude/
+.cursor/
+.aider*
+.copilot/
+.codeium/
